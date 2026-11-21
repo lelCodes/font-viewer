@@ -1,4 +1,4 @@
-// Font Viewer. Copyright (C) 2026 lvuCodes. Licensed under GPL-3.0-or-later; see LICENSE.
+// Font Viewer. Copyright (C) 2026 lelCodes. Licensed under GPL-3.0-or-later; see LICENSE.
 
 import type { Filters } from "../catalog/types";
 import { SORTS } from "../catalog/filtering";

@@ -1,4 +1,4 @@
-// Font Viewer. Copyright (C) 2026 lvuCodes. Licensed under GPL-3.0-or-later; see LICENSE.
+// Font Viewer. Copyright (C) 2026 lelCodes. Licensed under GPL-3.0-or-later; see LICENSE.
 //
 // Builds public/data/fonts.json from Google's own sources:
 //   - https://fonts.google.com/metadata/fonts          (family metadata: subsets, axes, popularity, …)

@@ -8,7 +8,7 @@ on:
 
 jobs:
   site-ci:
-    uses: lvuCodes/terminal-themes/.github/workflows/site-ci.yml@main
+    uses: lelCodes/terminal-themes/.github/workflows/site-ci.yml@main
 
   ai-attribution:
     runs-on: ubuntu-latest

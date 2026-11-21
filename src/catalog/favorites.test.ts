@@ -1,4 +1,4 @@
-// Font Viewer. Copyright (C) 2026 lvuCodes. Licensed under GPL-3.0-or-later; see LICENSE.
+// Font Viewer. Copyright (C) 2026 lelCodes. Licensed under GPL-3.0-or-later; see LICENSE.
 // @vitest-environment jsdom
 import { afterEach, describe, expect, it, vi } from "vitest";
 import {

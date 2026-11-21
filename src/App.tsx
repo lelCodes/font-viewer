@@ -1,4 +1,4 @@
-// Font Viewer. Copyright (C) 2026 lvuCodes. Licensed under GPL-3.0-or-later; see LICENSE.
+// Font Viewer. Copyright (C) 2026 lelCodes. Licensed under GPL-3.0-or-later; see LICENSE.
 
 import { useEffect, useMemo, useState } from "react";
 import "./App.css";
@@ -93,7 +93,7 @@ function App() {
       )}
 
       <FooterCredits
-        licenseHref="https://github.com/lvuCodes/font-viewer/blob/main/LICENSE"
+        licenseHref="https://github.com/lelCodes/font-viewer/blob/main/LICENSE"
         year={2026}
       />
     </main>

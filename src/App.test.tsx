@@ -1,4 +1,4 @@
-// Font Viewer. Copyright (C) 2026 lvuCodes. Licensed under GPL-3.0-or-later; see LICENSE.
+// Font Viewer. Copyright (C) 2026 lelCodes. Licensed under GPL-3.0-or-later; see LICENSE.
 // @vitest-environment jsdom
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import { cleanup, render, screen } from "@testing-library/react";
@@ -12,7 +12,7 @@ import {
 } from "@lvucodes/ui";
 import { makeCatalog, makeFamily } from "./catalog/fixtures";
 
-const LICENSE_HREF = "https://github.com/lvuCodes/font-viewer/blob/main/LICENSE";
+const LICENSE_HREF = "https://github.com/lelCodes/font-viewer/blob/main/LICENSE";
 
 const CATALOG = makeCatalog([
   makeFamily({ family: "Alpha Sans", category: "Sans Serif", defaultSort: 1 }),
