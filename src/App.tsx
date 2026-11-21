@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import "./App.css";
-import { BackLink, FooterCredits, ThemeSwitcher, useTheme } from "@lvucodes/ui";
+import { BackLink, FooterCredits, ThemeSwitcher, useTheme } from "@lelcodes/ui";
 import type { Catalog, Filters } from "./catalog/types";
 import { DEFAULT_FILTERS } from "./catalog/types";
 import { applyFilters, groupTags } from "./catalog/filtering";

@@ -1,6 +1,6 @@
 # font-viewer
 
-A Google Fonts catalog browser for the lelcodes.github.io family, built from [site-template](https://github.com/lelCodes/site-template) on Vite + React 19 + TypeScript with **[@lvucodes/ui](https://www.npmjs.com/package/@lvucodes/ui)** providing the theme system, switcher, back link, and footer credits. The full catalog (1,900+ families) is browsable with the same filter surface fonts.google.com offers: every language subset, the five categories, the Feeling / Appearance / Theme / Seasonal / Purpose / Special Use tag sets, variable- and color-font technology toggles, name/designer search, and Featured / Trending / Most popular / Newest / Name sorting. Fonts load lazily from `fonts.googleapis.com` as their cards scroll into view; nothing is bundled.
+A Google Fonts catalog browser for the lelcodes.github.io family, built from [site-template](https://github.com/lelCodes/site-template) on Vite + React 19 + TypeScript with **[@lelcodes/ui](https://www.npmjs.com/package/@lelcodes/ui)** providing the theme system, switcher, back link, and footer credits. The full catalog (1,900+ families) is browsable with the same filter surface fonts.google.com offers: every language subset, the five categories, the Feeling / Appearance / Theme / Seasonal / Purpose / Special Use tag sets, variable- and color-font technology toggles, name/designer search, and Featured / Trending / Most popular / Newest / Name sorting. Fonts load lazily from `fonts.googleapis.com` as their cards scroll into view; nothing is bundled.
 
 ## Data
 
@@ -45,4 +45,4 @@ See [AI-USAGE.md](AI-USAGE.md).
 
 ## License
 
-GNU General Public License v3.0 or later — see [LICENSE](LICENSE). Copyright © 2026 lelCodes. `@lvucodes/ui` is published under GPL-3.0-or-later, so this site is licensed GPL-3.0-or-later and makes its source available. The font files themselves are served by Google Fonts under their own (open) licenses; the catalog metadata snapshot derives from Google's public endpoints.
+GNU General Public License v3.0 or later — see [LICENSE](LICENSE). Copyright © 2026 lelCodes. `@lelcodes/ui` is published under GPL-3.0-or-later, so this site is licensed GPL-3.0-or-later and makes its source available. The font files themselves are served by Google Fonts under their own (open) licenses; the catalog metadata snapshot derives from Google's public endpoints.

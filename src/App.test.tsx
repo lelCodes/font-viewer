@@ -9,7 +9,7 @@ import {
   BACK_LINK_DEFAULT_LABEL,
   DEFAULT_THEME,
   THEMES,
-} from "@lvucodes/ui";
+} from "@lelcodes/ui";
 import { makeCatalog, makeFamily } from "./catalog/fixtures";
 
 const LICENSE_HREF = "https://github.com/lelCodes/font-viewer/blob/main/LICENSE";
